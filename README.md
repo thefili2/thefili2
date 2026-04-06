@@ -6,6 +6,6 @@ I specialize in Machine Learning and Data Analysis, with a strong focus on pract
 My primary language is Python, but I also work with HTML, CSS, and JavaScript when needed.
 
 ### Experience & Certifications
-- @harvard cs50
-- @upenn Data Analysis with Python
+- [Harvard University](https://github.com/harvard) Cs50
+- [University of Pennsylvania](https://github.com/upenn) Data Analysis with Python
 
